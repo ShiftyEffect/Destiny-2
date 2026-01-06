@@ -1,17 +1,17 @@
 title:Wishlist
 
-// Mistral Lift - Mistral Lift Envious Bait (god-pve)
-//notes: Stability MW tags:god-pve
+// Mistral Lift - Mistral Lift Envious Bait
+//notes: Stability Masterwork
 dimwishlist:item=766122634&perks=3399528164,3629421851,2817499044,3744057135
 
 
-// Mistral Lift - Mistral Lift Withering Precision  (pve)
-//notes: Stability MW tags:pve
+// Mistral Lift - Mistral Lift Withering Precision
+//notes: Stability Masterwork
 dimwishlist:item=766122634&perks=3399528164,3839493627,2904194311,332733060,54024075
 
 
-// Mistral Lift - Mistral Lift Recon Reservoir (pve)
-//notes: Stability MW tags:pve
+// Mistral Lift - Mistral Lift Recon Reservoir
+//notes: Stability Masterwork
 dimwishlist:item=766122634&perks=3399528164,3839493627,461595545,254337357
 
 
