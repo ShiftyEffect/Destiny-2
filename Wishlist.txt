@@ -80,4 +80,33 @@ dimwishlist:item=3685829362&perks=1124871858,1709045111,561986700,1720528630
 dimwishlist:item=3685829362&perks=111235976,1709045111,561986700,1720528630
 
 
+// Gizmo Weft - Gizmo Weft - Envious Bait (pve,god-pve)
+//notes: Velocity or Handling Masterwork Preferred tags:pve,god-pve
+dimwishlist:item=4069880346&perks=3250572790,409713597,2817499044,3744057135
+
+
+// Gizmo Weft - Gizmo Weft - Sliceblast Hatchchain  (pve)
+//notes: Reload Masterwork Preferred tags:pve
+dimwishlist:item=4069880346&perks=2052299741,2108812838,3422796781,102912326
+dimwishlist:item=4069880346&perks=2052299741,2108812838,3422796781,598607952
+dimwishlist:item=4069880346&perks=2052299741,2108812838,3696140595,102912326
+dimwishlist:item=4069880346&perks=2052299741,2108812838,3696140595,598607952
+
+
+// Gizmo Weft - Gizmo Weft - Airshot Chainhatch (pve)
+//notes: Handling Masterwork Preferred tags:pve
+dimwishlist:item=4069880346&perks=582768348,3061646252,3291427296,598607952
+dimwishlist:item=4069880346&perks=582768348,3061646252,3291427296,102912326
+dimwishlist:item=4069880346&perks=582768348,3061646252,191144788,598607952
+dimwishlist:item=4069880346&perks=582768348,3061646252,191144788,102912326
+
+
+// Gizmo Weft - Gizmo Weft - Airpod (pve)
+//notes: Handling or Velocity Masterwork Preferred tags:pve
+dimwishlist:item=4069880346&perks=2052299741,409713597,3291427296,2282937672
+dimwishlist:item=4069880346&perks=564443854,409713597,3291427296,2282937672
+dimwishlist:item=4069880346&perks=3250572790,409713597,3291427296,2282937672
+dimwishlist:item=4069880346&perks=582768348,409713597,3291427296,2282937672
+
+
 
